@@ -2,11 +2,13 @@
 
 It is in interactive desktop based application, created using Python and PostgreSQL, OpenCV and Tesseract for text extraction.
 
-Release 2 features:
+## Release 2 features:
    
    1. Text to Speech login: Takes command from microphone, if matched with credential, login successful.
    2. Modular approach:     All operations kept into seperate file.
    
+## Release 1 features:
+
 Main features:
 
 1. Takes input through Camera also from a Image file saved in Desktop/Laptop.
